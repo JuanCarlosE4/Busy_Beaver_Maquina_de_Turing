@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import BusyBeaver from './components/BusyBeaver.vue';
 </script>
 
 <template>
-  <HelloWorld />
+  <BusyBeaver />
 </template>
